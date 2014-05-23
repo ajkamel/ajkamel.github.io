@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Ash Kamel
-tagline:          'Developer \ Tinkerer \ Referee'
-description:      'Hi, welcome to my personal page, feel free to look around at some of my musings, portolio or interestests.  If you would like to contact me please find my information below'
+tagline:          '   Developer \ Tinkerer \ Referee'
+description:      'Hi, welcome to my personal page, feel free to look around at some of my musings, portolio or interests.  If you would like to contact me please find my information below'
 url:              http://ashkamel.com
 paginate:         5
 
@@ -19,5 +19,5 @@ author:
 # Custom vars
 version:          1.0.0
 
-github:
+github:          https://github.com/ajkamel
   repo:           https://github.com/ajkamel/ajkamel.github.io
