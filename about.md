@@ -4,27 +4,11 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Programming is something that I am and have become seriously passionate about over the past year.
+During the past twelve weeks I've strengthened my knowledge of and learned about new and existing languages such as Javascript, Ruby, jQuery, SQL. Along with the languages explored I even exercised some good old Test and Behavior Driven Development using Rspec and Jasmine in an agile fashion.
+
+I am also of the mindset that life is a long journey filled with many lessons to be learned. As you will see below, some of the things that I am passionate about outside of programming is, officiating soccer at a high level and participating in activities that allow me to flex my mental and physical energies from training in Brazilian Jiu-Jitsu to Scuba Diving.
+
+Taking these experiences, I look to turn the lessons and ideas learned into something inspiring and useful.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
