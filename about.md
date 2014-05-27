@@ -14,4 +14,8 @@ I am also of the mindset that life is a long journey filled with many lessons to
 Taking these experiences, I look to turn the lessons and ideas learned into something inspiring and useful.
 </p>
 
-<div><a href="http://github.com/ajkamel">github</a><a href="http://twitter.com/ajkamel">twitter</a><a href="http://linkedin.com/in/ashkamel">linkedin</a></div>
+<div>
+<a href="http://github.com/ajkamel">github</a>
+<a href="http://twitter.com/ajkamel">twitter</a>
+<a href="http://linkedin.com/in/ashkamel">linkedin</a>
+</div>
