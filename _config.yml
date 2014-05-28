@@ -19,5 +19,5 @@ author:
 # Custom vars
 version:          1.0.0
 
-github:          https://github.com/ajkamel
-  repo:           /ajkamel.github.io
+github:
+  repo:           https://github.com/ajkamel
