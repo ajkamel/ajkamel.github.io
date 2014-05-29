@@ -13,11 +13,3 @@ I am also of the mindset that life is a long journey filled with many lessons to
 <p class="message">
 Taking these experiences, I look to turn the lessons and ideas learned into something inspiring and useful.
 </p>
-
-<div>
-<a target="_blank" href="http://github.com/ajkamel">github</a>
-<a target="_blank" href="http://twitter.com/ajkamel">twitter</a>
-<a target="_blank" href="http://linkedin.com/in/ashkamel">linkedin</a>
-<a target="_blank" href="https://www.dropbox.com/s/fvdxd7on36cs3gt/ashk_resumev1.pdf"></a>
-</div>
-
