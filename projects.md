@@ -4,7 +4,7 @@ title: Projects
 ---
 
 ---
-[![TranSight](https://raw.githubusercontent.com/ajkamel/ajkamel.github.io/master/public/schedule-adherence-table.png)]
+[TranSight](https://raw.githubusercontent.com/ajkamel/ajkamel.github.io/master/public/schedule-adherence-table.png)
 ###TranSight
 
 was a developer challenge hosted by the MTA, ATT were we developed and proposed a dashboard where policy makers, riders, academics and MTA staff would be able to easily see which subway and bus stops in NYC were favorable using our own tScoring system that would aggregate Disability Friendliness, Stop Environment, WIFI connectevity, Wait Time Predictions and On-Time Percentage for each stop.
