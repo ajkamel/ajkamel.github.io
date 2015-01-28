@@ -4,14 +4,14 @@ title: Projects
 ---
 
 ---
-![TranSight](https://raw.githubusercontent.com/ajkamel/ajkamel.github.io/master/public/schedule-adherence-table.png)
+![TranSight](/public/schedule-adherence-table.png)
 ###TranSight
 
 was a developer challenge hosted by the MTA, ATT were we developed and proposed a dashboard where policy makers, riders, academics and MTA staff would be able to easily see which subway and bus stops in NYC were favorable using our own tScoring system that would aggregate Disability Friendliness, Stop Environment, WIFI connectevity, Wait Time Predictions and On-Time Percentage for each stop.
 
 ---
 
-[![gitThreeView](https://raw.githubusercontent.com/ajkamel/ajkamel.github.io/master/public/gitthreeview600px.png)](http://gitthreeview.herokuapp.com)
+[![gitThreeView](/public/gitthreeview600px.png)](http://gitthreeview.herokuapp.com)
 ###gitThreeView
 <a href="https://github.com/ajkamel/gitThreeView" target="_blank">see the code</a>
 
@@ -19,11 +19,20 @@ a simple app which you can use to visualize your Github repositories in 3D.
 
 ---
 
-[![LearnR](https://raw.githubusercontent.com/ajkamel/ajkamel.github.io/master/public/learnur600px.png)](http://learnur.herokuapp.com)
+[![LearnR](/public/learnur600px.png)](http://learnur.herokuapp.com)
 ###LearnR
 <a href="https://github.com/lacostenycoder/Learn.R" target="_blank">see the code</a>
 
 A site for young students to learn code concepts, music, and more. At our core we want LearnR to create a fun, playful environment that introduces your children to fundamental concepts that we use throughout our life.
+
+---
+<br>
+---
+
+[![Bracebridge](/public/bracebridge.png)](http://www.bracebridgecapital.com)
+###Bracebridge
+
+Bracebridge Capital was a project built for Red Antler. Implementing fully responsive design.
 
 ---
 <br>
@@ -41,7 +50,7 @@ Tripping dots was created during an 8 hour hackathon at the Etsy Month Music Hac
 ---
 <br>
 
-[![Mentorly](https://raw.githubusercontent.com/ajkamel/ajkamel.github.io/master/public/mentorly600px.png)](http://mentorly.herokuapp.com)
+[![Mentorly](/public/mentorly600px.png)](http://mentorly.herokuapp.com)
 ###Mentorly
 <a href="https://github.com/ajkamel/mentorly" target="_blank">see the code</a>
 
