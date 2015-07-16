@@ -29,10 +29,28 @@ A site for young students to learn code concepts, music, and more. At our core w
 <br>
 ---
 
+[![Audicus](/public/audicus-600.png)](http://audicus.com/)
+###C-RATER
+
+As part of the team to help build Audicus we integrated an existing ecommerce platform with an existing CMS.
+
+---
+<br>
+---
+
+[![CRATER](/public/CRATER-500.png)](http://crtr.com/)
+###C-RATER
+
+CRATER was a static page created for a client at Red Antler using implementing responsive design using SVG's and Javascript.
+
+---
+<br>
+---
+
 [![Bracebridge](/public/bracebridge.png)](http://www.bracebridgecapital.com)
 ###Bracebridge
 
-Bracebridge Capital was a project built for Red Antler. Implementing fully responsive design.
+Bracebridge Capital was a project built for Red Antler. Implementing mobile responsive design, RSS feed parsing and caching.
 
 ---
 <br>
@@ -46,12 +64,3 @@ We're visualizing songs with dots using the Echo Nest and iTunes APIs. The conce
 Team Members: Alex Shook, Ash Kamel, Jesse Sessler, Verner D'souza
 
 Tripping dots was created during an 8 hour hackathon at the Etsy Month Music Hackathon
-
----
-<br>
-
-[![Mentorly](/public/mentorly600px.png)](http://mentorly.herokuapp.com)
-###Mentorly
-<a href="https://github.com/ajkamel/mentorly" target="_blank">see the code</a>
-
-Mentorly connects mentors with mentees within an organization, company or group by matching experienced members with members looking for guidance, support and training in a particular field.
