@@ -30,7 +30,7 @@ A site for young students to learn code concepts, music, and more. At our core w
 ---
 
 [![Audicus](/public/audicus-600.png)](http://audicus.com/)
-###C-RATER
+###Audicus
 
 As part of the team to help build Audicus we integrated an existing ecommerce platform with an existing CMS.
 
