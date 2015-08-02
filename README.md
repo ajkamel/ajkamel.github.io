@@ -1,6 +1,6 @@
 #Personal Site
 
-Personal blog and portfolio using jekyll.
+Personal blog and portfolio.
 
 ## License
 
