@@ -11,7 +11,7 @@ was a developer challenge hosted by the MTA, ATT were we developed and proposed 
 
 ---
 
-[![gitThreeView](/public/gitthreeview600px.png)](http://gitthreeview.herokuapp.com)
+[![gitThreeView](/public/gitthreeview600px.png)](https://gitthreeview.herokuapp.com)
 ###gitThreeView
 <a href="https://github.com/ajkamel/gitThreeView" target="_blank">see the code</a>
 
@@ -19,7 +19,7 @@ a simple app which you can use to visualize your Github repositories in 3D.
 
 ---
 
-[![LearnR](/public/learnur600px.png)](http://learnur.herokuapp.com)
+[![LearnR](/public/learnur600px.png)](https://learnur.herokuapp.com)
 ###LearnR
 <a href="https://github.com/lacostenycoder/Learn.R" target="_blank">see the code</a>
 
@@ -29,7 +29,7 @@ A site for young students to learn code concepts, music, and more. At our core w
 <br>
 ---
 
-[![Audicus](/public/audicus-600.png)](http://audicus.com/)
+[![Audicus](/public/audicus-600.png)](https://audicus.com/)
 ###Audicus
 
 As part of the team to help build Audicus we integrated an existing ecommerce platform with an existing CMS.
@@ -38,7 +38,7 @@ As part of the team to help build Audicus we integrated an existing ecommerce pl
 <br>
 ---
 
-[![CRATER](/public/CRATER-500.png)](http://crtr.com/)
+[![CRATER](/public/CRATER-500.png)](https://crtr.com/)
 ###C-RATER
 
 CRATER was a static page created for a client at Red Antler using implementing responsive design using SVG's and Javascript.
@@ -47,7 +47,7 @@ CRATER was a static page created for a client at Red Antler using implementing r
 <br>
 ---
 
-[![Bracebridge](/public/bracebridge.png)](http://www.bracebridgecapital.com)
+[![Bracebridge](/public/bracebridge.png)](https://www.bracebridgecapital.com)
 ###Bracebridge
 
 Bracebridge Capital was a project built for Red Antler. Implementing mobile responsive design, RSS feed parsing and caching.
@@ -55,7 +55,7 @@ Bracebridge Capital was a project built for Red Antler. Implementing mobile resp
 ---
 <br>
 
-[![trippindots](http://i.imgur.com/wcHon2Y.png)](http://trippindots.herokuapp.com)
+[![trippindots](https://i.imgur.com/wcHon2Y.png)](https://trippindots.herokuapp.com)
 ###TrippinDots
 <a href="https://github.com/alexshook/trippindots" target="_blank">see the code</a>
 
