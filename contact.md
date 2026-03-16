@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Say Hello
+title: Contact
 ---
 
 <a target="_blank" href="https://github.com/ajkamel">github</a>    -    <a target="_blank" href="https://linkedin.com/in/ashkamel">linkedin</a>    -   <a target="_blank" href="/public/mykey.txt">pgp</a>

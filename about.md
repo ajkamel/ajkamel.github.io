@@ -3,14 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-I'm an engineering leader currently at GitHub supporting their Plan and Track organization. This entails leading our Projects platform and experience workstreams.
-</p>
+I'm an engineering leader currently at **GitHub**, where I lead teams within the Plan and Track organization building the Projects platform and experience workstreams. I'm drawn to complex systems and organizational challenges — I build teams that balance moving fast with building things that last.
 
-<p class="message">
-Previously I spent time at Zip Co helping them launch their business in Canada and Mexico and eventually growing in responsibility to supporting their card issuance program, repayments and platform teams. Previous to that I spent many years working in early stage companies, agency and fitness and lifestyle focused companies including time supporting SoulCycle as they led their digital transformation from a brick and mortar business to helping work on technology supporting their at home bike and in studio technology innovations.
-</p>
+Previously, I led engineering at **Zip Co**, helping launch their buy-now-pay-later business in Canada and Mexico before growing in scope to lead teams across card issuance, repayments, and platform infrastructure. Before that, I spent time at **SoulCycle** supporting their digital transformation — from a brick-and-mortar fitness brand to a connected fitness company with at-home and in-studio technology.
 
-<p class="message">
+Earlier in my career, I cut my teeth at early-stage startups and agencies, building across the full stack and learning what it takes to ship products from zero to one. That foundation still shapes how I lead today — with a bias toward clarity, craft, and getting things out the door.
+
 If you'd like to connect, feel free to <a href="/contact">get in touch</a>.
-</p>
