@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle install:*)",
+      "Bash(bundle --version)",
+      "Read(//Users/ajkamel/.local/share/gem/ruby/4.0.0/**)",
+      "Bash(rbenv versions:*)",
+      "Bash(rbenv install:*)",
+      "Bash(rbenv local:*)",
+      "Bash(rbenv version:*)",
+      "Bash(gem install:*)"
+    ]
+  }
+}
