@@ -3,36 +3,16 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="landing">
+  <p class="lead">I'm an engineering leader at <strong>GitHub</strong>, where I lead teams building the Projects platform and experience workstreams within the Plan and Track organization.</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  <p>I'm drawn to complex systems and organizational challenges. I build teams that balance moving fast with building things that last.</p>
 
-    {{ post.content }}
+  <p>My career has taken me from early-stage startups and agency work through international fintech expansion at <strong>Zip Co</strong> and digital transformation at <strong>SoulCycle</strong> — each step growing in scope, complexity, and the size of the problems worth solving.</p>
+
+  <div class="landing-links">
+    <a href="/about">More about me</a> &middot;
+    <a href="/work">Work</a> &middot;
+    <a href="/contact">Get in touch</a>
   </div>
-  {% endfor %}
 </div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-

@@ -301,6 +301,34 @@ a.sidebar-nav-item:focus {
   margin-bottom: 4em;
 }
 
+/* Landing page */
+.landing {
+  margin-bottom: 4em;
+}
+.landing .lead {
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
+.landing p {
+  line-height: 1.7;
+}
+.landing-links {
+  margin-top: 2rem;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: .9rem;
+}
+.landing-links a {
+  font-weight: bold;
+}
+
+/* Writing archive */
+.post-summary {
+  margin-bottom: 1.5rem;
+}
+.post-summary h3 {
+  margin-bottom: .25rem;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
@@ -478,16 +506,16 @@ a.pagination-item:hover {
   color: #90a959;
 }
 
-/* Cyan */
+/* Indigo */
 .theme-base-0c .sidebar,
 .theme-base-0c .sidebar-toggle:active,
 .theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #75b5aa;
+  background-color: #4F46E5;
 }
 .theme-base-0c .container a,
 .theme-base-0c .sidebar-toggle,
 .theme-base-0c .related-posts li a:hover {
-  color: #75b5aa;
+  color: #4F46E5;
 }
 
 /* Blue */

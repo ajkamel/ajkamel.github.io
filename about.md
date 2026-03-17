@@ -3,9 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-I am of the mindset that life is a long journey filled with many lessons to be learned. Some of the things that I am passionate about outside of programming is, officiating soccer at a high level and participating in activities that allow me to flex my mental and physical energies from training in Brazilian Jiu-Jitsu to Scuba Diving.
-</p>
-<p class="message">
-Taking these experiences, I look to turn the lessons and ideas learned into something inspiring and useful.
-</p>
+I'm an engineering leader currently at **GitHub**, where I lead teams within the Plan and Track organization building the Projects platform and experience workstreams. I'm drawn to complex systems and organizational challenges — I build teams that balance moving fast with building things that last.
+
+Previously, I led engineering at **Zip Co**, helping launch their buy-now-pay-later business in Canada and Mexico before growing in scope to lead teams across card issuance, repayments, and platform infrastructure. Before that, I spent time at **SoulCycle** supporting their digital transformation — from a brick-and-mortar fitness brand to a connected fitness company with at-home and in-studio technology.
+
+Earlier in my career, I cut my teeth at early-stage startups and agencies, building across the full stack and learning what it takes to ship products from zero to one. That foundation still shapes how I lead today — with a bias toward clarity, craft, and getting things out the door.
+
+If you'd like to connect, feel free to <a href="/contact">get in touch</a>.
