@@ -40,3 +40,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# Claude Code local settings
+.claude/settings.local.json
